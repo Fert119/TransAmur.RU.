@@ -1,15 +1,4 @@
 
-  height: 100vh; /* чтобы полоска занимала всю высоту окна */
-}
-.container {
-  flex-grow: 1;
-  padding: 20px;
-}
-
-body {
-  margin: 0;
-  display: flex;
-}
 body {
     font-family: Arial, sans-serif;
     background: #f7f9fc;
